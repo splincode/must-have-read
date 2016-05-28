@@ -23,6 +23,9 @@ Just for fun. Рассказ нечаянного революционера <br
 Программист-прагматик (Э. Хант, Д. Томас) <br>
 
 <img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
+Операционные системы (Эндрю Таненбаум) <br>
+
+<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
 Язык программирования Си (Брайн Керниган и Деннис Ритчи) <br>
 
 <img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
