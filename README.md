@@ -1,6 +1,5 @@
 <h3>Чек-лист развития</h3>
 <hr>
-
 <h4> Развлекательная литература </h4>
 <img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
 Дорога в будущее (Билл Гейтс) <br>
