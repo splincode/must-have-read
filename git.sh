@@ -8,5 +8,5 @@ if [[ "$1" == "-c" && "$2" != "" ]]
 fi
 
 git add .
-git commit -m "обновленные данные"
+git commit -m "$TEXTCOMMIT"
 git push origin master -f
