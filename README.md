@@ -1,11 +1,6 @@
 <h3>Чек-лист развития</h3>
 <hr>
-<h4> Общее положение </h4>
-<p>Литература</p>
-<div style="width: 100%; height: 10px; background: red"></div>
-<p>Технические основы</p>
-<div style="width: 100%; height: 10px; background: blue"></div>
-<hr>
+
 <h4> Развлекательная литература </h4>
 <img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
 Дорога в будущее (Билл Гейтс) <br>
