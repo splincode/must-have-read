@@ -1,49 +1,13 @@
-<h3>Занимательная литература</h3>
-<hr>
-<h4> Развлекательная литература </h4>
-- [ ]Дорога в будущее (Билл Гейтс)
-- [x]iКона: Стив Джобс (Саймон Вильям)
+### Solar System Exploration, 1950s – 1960s
 
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Понедельник начинается в субботу (Стругацкие) <br>
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Рабы Майкрософта (Дуглас Коупленд) <br>
 
-<img src="https://habrastorage.org/files/6bb/418/aa0/6bb418aa03a04d889dd2eb925d844deb.png" align="left" hspace="5"/>
-Just for fun. Рассказ нечаянного революционера <br>
-&emsp;&emsp;&emsp; (Линус Торвальдс, Дэвид Даймонд) <br>
-
-<h4> Техническая литература </h4>
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Программист-прагматик (Э. Хант, Д. Томас) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Операционные системы (Эндрю Таненбаум) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Язык программирования Си (Брайн Керниган и Деннис Ритчи) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Алгоритмы. Построение и анализ <br> 
-&emsp;&emsp;&emsp;( Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Элементы стиля программирования (Керниган Б., Плоджер Ф) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Искусство программирования (Дональд Э.Кнут) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Приемы объектно-ориентированного проектирования. Паттерны проектирования <br>
-&emsp;&emsp;&emsp;(Э. Гамма, Р. Хелм, Р. Джонсон, Дж. Влиссидес) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/> Рефакторинг: улучшения дизайна существующего кода (Мартин Фаулер) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/> Шаблоны корпоративных приложений (Мартин Фаулер) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/> Экстремальное программирование — разработка через тестирование (Кент Бек) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/> Совершенный код (Стив Макконнелл) <br>
-
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/> Чистый код. Создание, анализ и рефакторинг (Роберт Мартин) <br>
