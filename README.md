@@ -1,11 +1,9 @@
 <h3>Занимательная литература</h3>
 <hr>
 <h4> Развлекательная литература </h4>
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-Дорога в будущее (Билл Гейтс) <br>
+[x] Дорога в будущее (Билл Гейтс) <br>
 
-<img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
-iКона: Стив Джобс (Саймон Вильям) <br>
+[x] iКона: Стив Джобс (Саймон Вильям) <br>
 
 <img src="https://habrastorage.org/files/af5/b7d/024/af5b7d0247ab4d4ab965e2b61839a5c3.png" align="left" hspace="5"/>
 Понедельник начинается в субботу (Стругацкие) <br>
