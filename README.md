@@ -1,1 +1,9 @@
-This repository is deprecated, see current [repository](https://github.com/splincodewd/must-have-read/blob/master/README.md).
+## Литература для саморазвития
+
+#### Художественная / документальная литература
+ 
+✅ Just for fun. Рассказ нечаянного революционера 
+
+#### Техническая литература
+
+✅ Совершенный код (Стив Макконнелл) 
